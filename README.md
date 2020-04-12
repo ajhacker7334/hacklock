@@ -15,7 +15,7 @@ hacklock is a bash based script which is officially termux from this tool in jus
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Screenshot_](https://user-images.githubusercontent.com/49580304/78962692-8c32f900-7b12-11ea-9ddb-dd5d94d825be.jpg)
+
 
 ### 📌 ***Hacklock is available for***:
 
@@ -84,9 +84,6 @@ __Exit__ :
 ![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
 
 
-## 📌 ***Full video tutorial***:
-[![m-wiz metasploit-framework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
-## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
 https://www.youtube.com/AJHACKER
